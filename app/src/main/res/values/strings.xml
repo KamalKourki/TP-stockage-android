@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ApplicationCamera</string>
+    <string name="prendre_une_photo">Prendre une photo</string>
+    <string name="sauvegarder_photo">Sauvegarder Photo</string>
+    <string name="stockage_externe">Stockage externe</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="voulez_vous_ajouter_une_description_la_photo">Voulez-vous ajouter une description à la photo? (Cliquer sur la photo pour afficher sa description)</string>
+    <string name="bienvenue_dans_l_application_gestion_de_stockage_de_camera">Bienvenue dans l\'application gestion de stockage de camera</string>
+    <string name="cette_application_r_alis_dans_le_cadre_de_l_ue_android_permet_de_tester_et_comprendre_comment_marche_le_stockage_interne_extrene_sur_android_et_pour_cela_on_vous_propose_de_prendre_et_enregistrer_un_photo_avec_deux_types_de_stockages_possibles">Cette application réalisé dans le cadre de l\'UE Android permet de tester et comprendre comment marche le stockage interne/extrene sur android, et pour cela on vous propose de prendre et enregistrer un photo avec deux types de stockages possibles :</string>
+    <string name="r_alis_par_kourki_kamal_cadiou_justine">Réalisé par : KOURKI Kamal - CADIOU Justine</string>
+    <string name="stockage_interne">Stockage interne</string>
+</resources>
